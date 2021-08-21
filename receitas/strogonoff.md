@@ -2,7 +2,9 @@
 
 
 
-#  ![Strogonoff de Frango](C:\Users\Roseane\Pictures\Strogonoff de Frango.jpg)
+#  ![Strogonoff de Frango](C:\workspace\livro-receitas\receitas\Strogonoff de Frango.jpg)
+
+
 
 ##### Receita do dia. :chicken:
 
