@@ -1,10 +1,6 @@
 # Strogonoff de Frango
 
-
-
-#  ![Strogonoff de Frango](C:\workspace\livro-receitas\receitas\Strogonoff de Frango.jpg)
-
-
+ ![](C:\workspace\livro-receitas\Strogonoff.png)
 
 ##### Receita do dia. :chicken:
 
